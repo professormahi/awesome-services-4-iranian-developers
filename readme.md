@@ -7,14 +7,14 @@
 
 - [Chat and Support](#chat-and-support)
 - [Cloud PaaS, IaaS](#cloud-paas-iaas)
-- [Content Delivery Networks (CDNs)](#content-delivery-networks-cdns-)
-- [Customer Relationship Management (CRM)](#customer-relationship-management-crm-)
+- [Content Delivery Networks (CDNs)](#content-delivery-networks-cdns)
+- [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
 - [Dashboards](#dashboards)
 - [Monitoring Tools](#monitoring-tools)
 - [Outgoing Email Services](#outgoing-email-services)
 - [Payment Gateways](#payment-gateways)
-- [Productivity & Organization](#productivity-organization)
-- [Tools for Small businesses and startups](#tools-for-small-business-and-startups)
+- [Productivity & Organization](#productivity--organization)
+- [Tools for Small businesses and startups](#tools-for-small-businesses-and-startups)
 - [SMS and Messaging](#sms-and-messaging)
 - [Web Hosting](#web-hosting)
 
@@ -44,7 +44,7 @@
 
 ## Outgoing Email Services
 
-- [MainChimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
+- [MailChimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
 
 ## Payment Gateways
 
