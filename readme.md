@@ -10,6 +10,7 @@
 - [Content Delivery Networks (CDNs)](#content-delivery-networks-cdns)
 - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
 - [Dashboards](#dashboards)
+- [Freelancing Sites](#freelancing-sites)
 - [Monitoring Tools](#monitoring-tools)
 - [Outgoing Email Services](#outgoing-email-services)
 - [Payment Gateways](#payment-gateways)
@@ -38,6 +39,10 @@
 ## Dashboards
 
 - [ThingsBoard](https://thingsboard.io/) - ThingsBoard IoT Platform; Device management, data collection, processing and visualization for your IoT solution
+
+## Freelancing sites
+
+- [Ponisha](https://ponisha.ir/)
 
 ## Monitoring Tools
 - [Sentry](https://sentry.io/) - Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
@@ -71,15 +76,21 @@
 
 ## Web Hosting
 
-- [IranServer](https://www.iranserver.com/)
+- [Hostinja](https://hostinja.com/) - Hosting and VPS especially supports Python.
+- [IranServer](https://www.iranserver.com/) - Host, VPS, MailServer, MailServer, DNS, ... .
 
 
-## Contribute
+# Similar Awesome lists
+
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+- [GetStream/awesome-saas-services](https://github.com/GetStream/awesome-saas-services)
+
+# Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-## License
+# License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
