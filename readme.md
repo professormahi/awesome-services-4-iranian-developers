@@ -27,7 +27,9 @@
 ## Cloud PaaS, IaaS
 
 - [Abrfa](https://abrfa.com/) - Reselling Digital Ocean droplets in Iran.
+- [Fandogh PaaS](https://fandogh.cloud/) - PaaS based on containers with two free running containers.
 - [SainaCloud](http://www.sainacloud.ir/) - Iran/France Open-Stack based machines.
+- [XaaS](https://xaas.ir/) - XaaS service with Pay As You Go payment policy.
 
 ## Customer Relationship Management (CRM)
 
@@ -49,6 +51,7 @@
 
 ## Outgoing Email Services
 
+- [MailChi](https://mailchi.in/) - Iranian marketing email; Drag&Drop items and create your emails.
 - [MailChimp](https://mailchimp.com/) - World’s leading email marketing platform, sending over a billion emails every day.
 
 ## Payment Gateways
