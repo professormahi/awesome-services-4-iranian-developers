@@ -30,6 +30,7 @@
 - [Fandogh PaaS](https://fandogh.cloud/) - PaaS based on containers with two free running containers.
 - [SainaCloud](http://www.sainacloud.ir/) - Iran/France Open-Stack based machines.
 - [XaaS](https://xaas.ir/) - XaaS service with Pay As You Go payment policy.
+- [Liara](https://liara.ir) - Cloud platform for application with Pay As You Go payment policy.
 
 ## Customer Relationship Management (CRM)
 
