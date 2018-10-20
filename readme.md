@@ -28,9 +28,9 @@
 
 - [Abrfa](https://abrfa.com/) - Reselling Digital Ocean droplets in Iran.
 - [Fandogh PaaS](https://fandogh.cloud/) - PaaS based on containers with two free running containers.
+- [Liara](https://liara.ir) - Cloud platform for applications with Pay As You Go payment policy.
 - [SainaCloud](http://www.sainacloud.ir/) - Iran/France Open-Stack based machines.
 - [XaaS](https://xaas.ir/) - XaaS service with Pay As You Go payment policy.
-- [Liara](https://liara.ir) - Cloud platform for applications with Pay As You Go payment policy.
 
 ## Customer Relationship Management (CRM)
 
