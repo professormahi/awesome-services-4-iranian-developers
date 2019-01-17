@@ -23,6 +23,7 @@
 ## Chat and Support
 
 - [FreshDesk](https://freshdesk.com/) - Intuitive, feature-rich, affordable customer support software
+- [RayChat](https://raychat.io/) - What better way to offer them help than through a quick chat on your website? It’s way faster than email and more efficient than phone. Don’t make your customers wait.
 
 ## Cloud PaaS, IaaS
 
