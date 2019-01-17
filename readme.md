@@ -82,6 +82,7 @@
 
 ## SMS and Messaging
 
+- [SMS.ir](https://www.sms.ir/) - The sms.ir system offers you the popular RESTful service and various plugins.
 - [Ghasedak](http://sms.ghasedak-ict.com/) - Send and receive SMSs in bulk, location based, Job based, ... using APIs.
 - [Kavenegar](http://kavenegar.com/) - Send and receive SMSs.
 
