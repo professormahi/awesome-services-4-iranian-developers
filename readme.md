@@ -17,6 +17,7 @@
 - [Productivity & Organization](#productivity--organization)
 - [Tools for Small businesses and startups](#tools-for-small-businesses-and-startups)
 - [SMS and Messaging](#sms-and-messaging)
+- [Storage Services](#storage-services)
 - [Web Hosting](#web-hosting)
 
 
@@ -81,6 +82,10 @@
 
 - [Ghasedak](http://sms.ghasedak-ict.com/) - Send and receive SMSs in bulk, location based, Job based, ... using APIs.
 - [Kavenegar](http://kavenegar.com/) - Send and receive SMSs.
+
+## Storage Services
+
+- [Backtory](https://backtory.com/) - The infrastructure will make your infrastructure more quality, faster and more secure ; Services: Content Distribution Network (CDN), Storage and file management, Video services.
 
 ## Web Hosting
 
