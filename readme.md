@@ -17,12 +17,14 @@
 - [Productivity & Organization](#productivity--organization)
 - [Tools for Small businesses and startups](#tools-for-small-businesses-and-startups)
 - [SMS and Messaging](#sms-and-messaging)
+- [Storage Services](#storage-services)
 - [Web Hosting](#web-hosting)
 
 
 ## Chat and Support
 
 - [FreshDesk](https://freshdesk.com/) - Intuitive, feature-rich, affordable customer support software
+- [RayChat](https://raychat.io/) - What better way to offer them help than through a quick chat on your website? It’s way faster than email and more efficient than phone. Don’t make your customers wait.
 
 ## Cloud PaaS, IaaS
 
@@ -41,10 +43,12 @@
 
 ## Dashboards
 
+- [Portainer](https://portainer.io/) - Portainer a powerful, open-source management toolset that allows you to easily build, manage and maintain Docker environments
 - [ThingsBoard](https://thingsboard.io/) - ThingsBoard IoT Platform; Device management, data collection, processing and visualization for your IoT solution
 
 ## Freelancing sites
 
+- [Parscoders](https://parscoders.com/) - For your project, hire a telework and freelance workforce.
 - [Ponisha](https://ponisha.ir/)
 
 ## Monitoring Tools
@@ -78,8 +82,13 @@
 
 ## SMS and Messaging
 
+- [SMS.ir](https://www.sms.ir/) - The sms.ir system offers you the popular RESTful service and various plugins.
 - [Ghasedak](http://sms.ghasedak-ict.com/) - Send and receive SMSs in bulk, location based, Job based, ... using APIs.
 - [Kavenegar](http://kavenegar.com/) - Send and receive SMSs.
+
+## Storage Services
+
+- [Backtory](https://backtory.com/) - The infrastructure will make your infrastructure more quality, faster and more secure ; Services: Content Distribution Network (CDN), Storage and file management, Video services.
 
 ## Web Hosting
 
