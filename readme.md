@@ -77,7 +77,7 @@
 - [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 
 ## Tools for Small businesses and startups
-
+- [Bizily (NivoPlus)](https://www.bizilyapp.com/) - A Business Finance Management application which try to make your financial flow easy and simple.
 - [FAX.IR](https://www.fax.ir/) - Fax as a service; Send and receive faxes.
 - [Hesabit](https://www.hesabit.com/) - Creating a Receipt, sending to customer, getting paid.
 
