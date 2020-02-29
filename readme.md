@@ -83,6 +83,7 @@
 - [Gitlab](https://about.gitlab.com/) - GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.
 
 #### Team Chatting
+- [Balonet](https://balonet.net/) - Communicate with your team and organization.
 - [RIOT.IM](https://about.riot.im/) - Communicate the way you want with Riot - a universal secure chat app entirely under your control.
 - [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 
