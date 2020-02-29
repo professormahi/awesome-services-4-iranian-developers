@@ -66,6 +66,7 @@
 
 ## Payment Gateways
 
+- [Bahamta Web Pay](https://webpay.bahamta.com/) - Secure and easy to use payment gateway.
 - [NextPay](https://www.nextpay.com/) - Personal Pay Page, Pay Form Builder, Various Plugins, Professional Programming, Professional Support, Smart Switch
 - [pay](https://www.pay.ir/) - Payment gateway, Wallet, Payment with USSD, Invoice and Payment Form
 - [ZarinPal](https://www.zarinpal.com/) - Zarinpal is the first pioneer payer in Iran, with the new style and standard of online payment, the most suitable electronic payment service for all businesses online and offline.
