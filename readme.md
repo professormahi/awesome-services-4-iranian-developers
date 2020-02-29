@@ -45,12 +45,12 @@
 ## Dashboards
 
 - [Portainer](https://portainer.io/) - Portainer a powerful, open-source management toolset that allows you to easily build, manage and maintain Docker environments
-- [ThingsBoard](https://thingsboard.io/) - ThingsBoard IoT Platform; Device management, data collection, processing and visualization for your IoT solution
+- [ThingsBoard](https://thingsboard.io/) - ThingsBoard IoT Platform; Device management, data collection, processing and visualization for your IoT solution.
 
 ## Freelancing sites
 
 - [Parscoders](https://parscoders.com/) - For your project, hire a telework and freelance workforce.
-- [Ponisha](https://ponisha.ir/)
+- [Ponisha](https://ponisha.ir/) - Find experts in Ponisha and start working with them with secure Ponisha payment.
 
 ## Monitoring Tools
 - [Sentry](https://sentry.io/) - Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
