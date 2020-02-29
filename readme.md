@@ -74,6 +74,7 @@
 - [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
 #### Team Chatting
+- [RIOT.IM](https://about.riot.im/) - Communicate the way you want with Riot - a universal secure chat app entirely under your control.
 - [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 
 ## Tools for Small businesses and startups
