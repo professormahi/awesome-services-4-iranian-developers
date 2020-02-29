@@ -78,6 +78,10 @@
 - [Taskulu](https://taskulu.com/fa/) - Iranian alternative for Trello.
 - [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
+#### Project and SourceCode Management
+- [Azure DevOps Server](https://azure.microsoft.com/en-gb/services/devops/server/) - Azure DevOps Server is a Microsoft product that provides version control, reporting, requirements management, project management, automated builds, lab management, testing and release management capabilities. It covers the entire application lifecycle, and enables DevOps capabilities.
+- [Gitlab](https://about.gitlab.com/) - GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.
+
 #### Team Chatting
 - [RIOT.IM](https://about.riot.im/) - Communicate the way you want with Riot - a universal secure chat app entirely under your control.
 - [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
