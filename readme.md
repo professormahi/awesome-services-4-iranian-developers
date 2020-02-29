@@ -43,7 +43,7 @@
 
 ## Content Delivery Networks (CDNs)
 - [ArvanCloud](https://www.arvancloud.com/en) - Content Delivery Network Solutions, CDN, DDoS Protection, Video Platform.
-- [CDN.js](https://cdnjs.com/)
+- [CDN.js](https://cdnjs.com/) - The best FOSS CDN for web related libraries to speed up your websites!
 - [Cloudflare](https://cloudflare.com/) - Cloudflare speeds up and protects millions of websites, APIs, SaaS services, and other properties connected to the Internet. Our Anycast technology enables our benefits to scale with every server we add to our growing footprint of data centers.
 
 ## Dashboards
