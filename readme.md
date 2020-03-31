@@ -10,6 +10,7 @@
 - [Content Delivery Networks (CDNs)](#content-delivery-networks-cdns)
 - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
 - [Dashboards](#dashboards)
+- [Development Tools](#development-tools)
 - [Freelancing Sites](#freelancing-sites)
 - [Monitoring Tools](#monitoring-tools)
 - [Outgoing Email Services](#outgoing-email-services)
@@ -50,6 +51,24 @@
 
 - [Portainer](https://portainer.io/) - Portainer a powerful, open-source management toolset that allows you to easily build, manage and maintain Docker environments
 - [ThingsBoard](https://thingsboard.io/) - ThingsBoard IoT Platform; Device management, data collection, processing and visualization for your IoT solution.
+
+## Development Tools
+#### Code Review
+- [Gerrit](https://www.gerritcodereview.com/) - Open source git code review tool originating out of Google.
+- [SonarQube](https://www.sonarqube.org/) - Your teammate for Code Quality and Security, SonarQube empowers all developers to write cleaner and safer code. 
+
+#### IDE Plugins and Extensions
+
+##### Code Completion
+- [Kite](https://kite.com/) - Kite is a plugin for your IDE that uses machine learning to give you useful code completions for Python. It supports IDEs like Atom, PyCharm, Spyder, Sublime, VSCode, Vim, InteliJ, etc.
+
+##### Grammar and spell Checkers
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A VSCode basic spell checker that works well with camelCase code.
+
+- [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie) - Provides intelligent spelling and grammar checks for text that you write in the JetBrains IDEs.
+
+- [LanguageTool](https://languagetool.org/) - LanguageTool checks your writing in more than 20 languages with more than 25 [plugins](http://wiki.languagetool.org/software-that-supports-languagetool-as-a-plug-in-or-add-on) for different environments.
+
 
 ## Freelancing sites
 
