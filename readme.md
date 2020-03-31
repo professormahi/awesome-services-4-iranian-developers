@@ -85,8 +85,8 @@
 #### Team Chatting
 - [Balonet](https://balonet.net/) - Communicate with your team and organization.
 - [RIOT.IM](https://about.riot.im/) - Communicate the way you want with Riot - a universal secure chat app entirely under your control.
-- [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 - [Rocket.Chat](https://rocket.chat/) - Control your communication, manage your data and have your own collaboration platform to improve team productivity. Rocket.Chat is scalable and open source, replace email and improve your digital workflow.
+- [Slack](https://slack.com/) - Whatever work means for you, Slack brings all the pieces and people you need together so you can actually get things done.
 
 ## Tools for Small businesses and startups
 - [Bizily (NivoPlus)](https://www.bizilyapp.com/) - A Business Finance Management application which try to make your financial flow easy and simple.
