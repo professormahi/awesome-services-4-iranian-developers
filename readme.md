@@ -67,9 +67,7 @@
 
 ##### Grammar and spell Checkers
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A VSCode basic spell checker that works well with camelCase code.
-
 - [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie) - Provides intelligent spelling and grammar checks for text that you write in the JetBrains IDEs.
-
 - [LanguageTool](https://languagetool.org/) - LanguageTool checks your writing in more than 20 languages with more than 25 [plugins](http://wiki.languagetool.org/software-that-supports-languagetool-as-a-plug-in-or-add-on) for different environments.
 
 
