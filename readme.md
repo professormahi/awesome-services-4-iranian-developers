@@ -38,6 +38,7 @@
 
 ## Customer Relationship Management (CRM)
 
+- [ParsVtiger](https://parsvt.com/) - The Farsi version of Vtiger CRM
 - [Vtiger](https://www.vtiger.com/) - Get the full picture with a unified CRM that breaks silos between Marketing, Sales & Support teams and offers a comprehensive view of your customer.
 
 
