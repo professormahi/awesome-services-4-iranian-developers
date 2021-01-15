@@ -20,6 +20,7 @@
 - [SMS and Messaging](#sms-and-messaging)
 - [Storage Services](#storage-services)
 - [Web Hosting](#web-hosting)
+- [WordPress Themes and Plugins](#wordpress-themes-and-plugins)
 
 
 ## Chat and Support
@@ -128,6 +129,10 @@
 
 - [Hostinja](https://hostinja.com/) - Hosting and VPS especially supports Python.
 - [IranServer](https://www.iranserver.com/) - Host, VPS, MailServer, MailServer, DNS, ... .
+
+## WordPress Themes and Plugins
+- [Hamyar WordPress](https://hamyarwp.com/) - Free WordPress themese, plugins, and training materials.
+- [Zhaket](https://www.zhaket.com/) - The most reputable specialized market for WordPress templates and plugins.
 
 
 # Similar Awesome lists
