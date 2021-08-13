@@ -100,6 +100,13 @@
 - [Taskulu](https://taskulu.com/fa/) - Iranian alternative for Trello.
 - [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
+#### Meeting Platform
+- [Gharar](https://gharar.ir/) - Iranian customized version of Jitsi. 
+- [Jitsi](https://meet.jit.si/) - Jitsi is a collection of free and open-source multiplatform voice, video conferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android. 
+
+#### Meeting Scheduler
+- [ZEEG](https://zeeg.me/) - Schedule meetings and meetups without any hassle! Zeeg connects with your calendars and shows your availability to your audience based on your preferences, consolidated on one page. No more last minute and conflicting meetings.
+
 #### Project and SourceCode Management
 - [Azure DevOps Server](https://azure.microsoft.com/en-gb/services/devops/server/) - Azure DevOps Server is a Microsoft product that provides version control, reporting, requirements management, project management, automated builds, lab management, testing and release management capabilities. It covers the entire application lifecycle, and enables DevOps capabilities.
 - [Gitlab](https://about.gitlab.com/) - GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc.
