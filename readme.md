@@ -37,6 +37,7 @@
 - [MahtaOnline](https://www.mahtaonline.ir/) - VPS in France, US, Germany, and Netherlands.
 - [SainaCloud](http://www.sainacloud.ir/) - Iran/France Open-Stack based machines.
 - [XaaS](https://xaas.ir/) - XaaS service with Pay As You Go payment policy.
+- [Darkube](https://darkube.ir/) - Kubernetes based PaaS
 
 ## Customer Relationship Management (CRM)
 
