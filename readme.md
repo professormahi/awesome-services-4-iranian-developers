@@ -32,6 +32,7 @@
 
 - [Abrfa](https://abrfa.com/) - Reselling Digital Ocean droplets in Iran.
 - [ArvanCloud](https://www.arvancloud.com/en) - Get a Cloud Server in 30 Seconds
+- [Darkube](https://darkube.ir/) - Kubernetes based PaaS
 - [Fandogh PaaS](https://fandogh.cloud/) - PaaS based on containers with two free running containers.
 - [Liara](https://liara.ir) - Cloud platform for applications with Pay As You Go payment policy.
 - [MahtaOnline](https://www.mahtaonline.ir/) - VPS in France, US, Germany, and Netherlands.
