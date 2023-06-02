@@ -36,6 +36,7 @@
 - [ArvanCloud](https://www.arvancloud.com/en) - Get a Cloud Server in 30 Seconds
 - [Darkube](https://darkube.ir/) - Kubernetes based PaaS
 - [Fandogh PaaS](https://fandogh.cloud/) - PaaS based on containers with two free running containers.
+- [Kubit](https://kubit.ir/) - Providing managed Kubernetes platform (KaaS) with an exhaustive toolset, we solve any DevOps needs at scale and take on your zero to one hundred software infrastructure to focus solely on developing your service.
 - [Liara](https://liara.ir) - Cloud platform for applications with Pay As You Go payment policy.
 - [MahtaOnline](https://www.mahtaonline.ir/) - VPS in France, US, Germany, and Netherlands.
 - [SainaCloud](http://www.sainacloud.ir/) - Iran/France Open-Stack based machines.
