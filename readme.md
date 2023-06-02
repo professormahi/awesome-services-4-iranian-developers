@@ -124,6 +124,7 @@
 ## Tools for Small businesses and startups
 - [Bizily (NivoPlus)](https://www.bizilyapp.com/) - A Business Finance Management application which try to make your financial flow easy and simple.
 - [FAX.IR](https://www.fax.ir/) - Fax as a service; Send and receive faxes.
+- [Hamkaran](https://hamkaran.cloud/) - Cloud telephony. IVR, call queue, call scenario and recording of conversations and reports, etc.
 - [Hesabit](https://www.hesabit.com/) - Creating a Receipt, sending to customer, getting paid.
 
 ## Landing Pages
