@@ -17,6 +17,7 @@
 - [Payment Gateways](#payment-gateways)
 - [Productivity & Organization](#productivity--organization)
 - [Tools for Small businesses and startups](#tools-for-small-businesses-and-startups)
+- [Landing Pages](#landing-pages)
 - [SMS and Messaging](#sms-and-messaging)
 - [Storage Services](#storage-services)
 - [Web Hosting](#web-hosting)
@@ -67,6 +68,7 @@
 
 ##### Code Completion
 - [Kite](https://kite.com/) - Kite is a plugin for your IDE that uses machine learning to give you useful code completions for Python. It supports IDEs like Atom, PyCharm, Spyder, Sublime, VSCode, Vim, InteliJ, etc.
+- [Tabnine](https://www.tabnine.com/) - Tabnine is an AI code assistant that makes you a better developer.
 
 ##### Grammar and spell Checkers
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - A VSCode basic spell checker that works well with camelCase code.
@@ -122,6 +124,10 @@
 - [Bizily (NivoPlus)](https://www.bizilyapp.com/) - A Business Finance Management application which try to make your financial flow easy and simple.
 - [FAX.IR](https://www.fax.ir/) - Fax as a service; Send and receive faxes.
 - [Hesabit](https://www.hesabit.com/) - Creating a Receipt, sending to customer, getting paid.
+
+## Landing Pages
+- [Landik](https://landik.ir/) - In Landik clicks become customers.
+- [Landin](https://landin.ir/) - Designing landing pages like professionals. Easy, no-code, and no waste of time.
 
 ## SMS and Messaging
 
