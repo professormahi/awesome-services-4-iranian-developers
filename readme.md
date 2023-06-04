@@ -106,6 +106,7 @@
 - [Trello](https://trello.com/) - Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible and rewarding way.
 
 #### Meeting Platform
+- [Alocom](https://alocom.co/) - Virtual meetings and events system.
 - [Gharar](https://gharar.ir/) - Iranian customized version of Jitsi. 
 - [Jitsi](https://meet.jit.si/) - Jitsi is a collection of free and open-source multiplatform voice, video conferencing and instant messaging applications for the web platform, Windows, Linux, macOS, iOS and Android. 
 
